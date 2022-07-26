@@ -1,0 +1,633 @@
+ /*Extra small devices portrait phones, less than 576px*/
+@media (max-width: 575.98px) { 
+    .c_nav {
+        height: 98px;
+    }
+    .banner-h2 {
+        font-size: 18px;
+        line-height: 21px;
+        margin-bottom: 9px;
+        margin-top: 5px;
+    }
+    .b_img img {
+        width: 100%;
+    }
+    .b_img {
+        margin-top: 103px;
+    }
+    .b_text {
+        margin-top: 40px;
+        text-align: center;
+    }
+    .btn-button {
+        margin-top: 21px;
+    }
+    .about-img-2 {
+        display: none;
+    }
+    .about-h2 {
+        font-size: 27px;
+        margin-bottom: 6px;
+        margin-top: 0px;
+        text-align: center;
+    }
+    .about {
+        margin-top: 55px;
+    }
+    .a_text {
+        padding: 0px;
+        margin-top: 40px;
+        text-align: center;
+    }
+    .abo-h2 {
+        font-size: 20px !important; 
+
+    }
+    .about-h5 {
+        margin-bottom: 10px;
+    }
+    .feature {
+        margin-top: 55px;
+    }
+    .f-text {
+        font-size: 19px !important;
+        margin-top: 8px !important;
+        margin-bottom: 26px !important;
+    }
+    .f-icon {
+        padding: 21px 25px;
+    }
+    .f-icon .icon-i {
+        margin: 0 auto 17px;
+    }
+    .f-icon a {
+        font-size: 22px;
+        margin-bottom: 8px;
+    }
+    .f-single-top {
+        margin-bottom: 19px;
+    }
+    .recentwork {
+        margin-top: 44px;
+    }
+    .recnt-text {
+        padding: 0px;
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .recnt-h2, .f-text {
+        font-size: 22px !important;
+        margin-top: 6px !important;
+        margin-bottom: 15px !important;
+    }
+    .re-work-p {
+        text-align: justify;
+    }
+    .img-recnt img {
+        width: 296px;
+       height: 200px;
+        margin-top: 5px;
+    }
+    .single-item {
+        margin-top: 26px;
+        margin-bottom: 38px;
+    }
+    .img-recnt {
+        margin-bottom: 31px;
+        overflow: hidden;
+    }
+    .funscat {
+        padding: 45px 0;
+        text-align: center;
+    }
+    .singleitem-fun {
+        margin-top: 28px;
+    }
+    .testimonial {
+        margin-top: 65px;
+        text-align: center;
+    }
+    .test-item-le {
+        margin: 0px !important;
+    }
+    .test-image {
+        margin-bottom: 56px;
+    }
+    .team {
+        margin-top: 60px;
+        margin-bottom: 60px;
+
+    }
+    .team-h2 {
+        font-size: 22px;
+        display: grid;
+    }
+    .team-p {
+        margin: 0px !important;
+    }
+    .single-team {
+        padding: 17px 16px 17px 18px;
+        text-align: center;
+        border: 5px solid rgb(246, 247, 251);
+        margin-left: 29px
+    }
+    .team-img {
+        width: 199px;
+        margin-bottom: 13px;
+    }
+    .news {
+        margin-bottom: 60px;
+    }
+    .contact-phone {
+        margin-top: 26px !important;
+    }
+    .contract {
+        margin-bottom: 20px;
+    }
+    .contact-us{
+        margin-top: 52px;
+        text-align: center;
+    }
+    .conact-h2 {
+        font-size: 18px !important;
+        margin-top: 9px !important;
+        margin-bottom: 17px !important;
+     }
+     .icon-1 a {
+        font-size: 21px;
+    }
+     .icon-1 {
+        font-size: 16px;
+        margin-bottom: 14px;
+    }
+    .logo-top img {
+        padding: 15px;
+    }
+    .partner {
+        margin-bottom: 55px;
+        text-align: center;
+    }
+    footer {
+        padding: 20px 0;
+        text-align: center;
+    }
+    .services {
+        padding: 20px;
+    }
+    .service-title {
+        margin-bottom: 16px;
+    }
+    .service-feed {
+        padding: 20px;
+    }
+    .navbar-nav .dropdown-menu {
+        display: none;
+    }
+    .dropdown-menu[data-bs-popper] {
+        top: 14%;
+        left: 129px;
+        right: 516px;
+        margin-top: var(--bs-dropdown-spacer);
+    }
+}
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .c_nav {
+        height: 130px;
+    }
+    .banner-h2 {
+        font-size: 48px;
+        line-height: 57px;
+        margin-bottom: 16px;
+        margin-top: 9px;
+    }
+    .b_text {
+    margin-top: 55px;
+    text-align: center;
+    }
+    .banner-h2 {
+        font-size: 34px;
+        margin-bottom: 5px;
+        margin-top: 5px;
+    }
+    .about-img-2 {
+        display: contents;
+    }
+    .about-h2 {
+        font-size: 30px;
+        margin-bottom: 22px;
+        text-align: center;
+        margin-top: 32px;
+    }
+    .a_text {
+        text-align: center;
+        margin-top: 41px;
+        padding: 0px;
+    }
+    .banner-h2 {
+        font-size: 23px;
+        margin-bottom: 3px;
+        margin-top: 2px;
+    }
+    .about-h5 {
+        font-size: 19px;
+        margin-bottom: 13px;
+    }
+    .feature {
+        margin-top: 60px;
+    }
+    .f-text {
+        font-size: 30px;
+        margin-top: 13px;
+        margin-bottom: 30px;
+    }
+    .recentwork {
+        margin-top: 55px;
+    }
+    .f-single-top {
+        margin-top: 20px;
+    }
+    .img-recnt img {
+        width: 517px;
+    }
+    .recnt-h2 {
+        font-size: 21px;
+        margin-bottom: 13px;
+        margin-top: 11px;
+    }
+    .single-item {
+        margin-top: 55px;
+    }
+    .funscat {
+        padding: 56px 0;
+        margin-top: 55px;
+    }
+    .recnt-text {
+    text-align: center;
+    padding: 0px;
+    margin-top: 50px;
+    
+    }
+    .fun-pr {
+        margin-top: 18px;
+        font-size: 16px;
+    }
+    .fun-p {
+        font-size: 25px;
+        margin-left: 29px;
+    }
+    .funcat-single {
+        margin: 0px;
+    }
+    .dis-iline {
+        display: contents;
+    }
+    .funscat {
+        padding: 57px 0;
+    }
+    .singleitem-fun {
+        margin-bottom: -8px;
+    }
+    .fun-top {
+        padding: 0px;
+        margin-top: 7px;
+        font-size: 15px;
+       
+    }
+    .singleitem-fun img {
+        width: 40px;
+        margin-left: 21px;
+        height: 41px;
+    }
+    .f-text {
+        margin-top: 15px;
+        margin-bottom: 42px;
+       }
+    .test-image {
+       margin-bottom: 60px;
+       text-align: center;
+      }
+    .test-item-le{
+        margin-left: 0px !important;
+      }
+      .testimonial {
+        margin-top: 55px;
+    }
+    .team-img {
+       margin-bottom: 20px !important;
+    }
+    .team-h2 {
+        display: grid;
+    }
+    .team-p {
+        margin: 0px;
+    }
+   
+    .team {
+        margin-bottom: 70px;
+        margin-top: 60px;
+    }
+    .single-team {
+        padding: 24px 42px 24px 42px !important;
+    }
+    .arrow-line {
+        margin-left: -8px;
+    }
+    .blog-list {
+        text-align: center;
+         margin-top: 14px;
+        margin-bottom: 11px;
+    }
+    .blog-h2 {
+        margin-top: 2px;
+    }
+    .single-blog {
+        margin-bottom: 30px;
+    }
+    .conact-h2 {
+        font-size: 16px !important;
+        margin-top: 7px !important;
+        margin-bottom: 18px !important;
+    }
+    .news {
+        margin-bottom: 40px;
+    }
+    .btn-button {
+        margin-top: 24px !important;
+        margin-bottom: 52px !important;
+        padding: 15px 11px !important;
+    }
+    .contract {
+        margin-bottom: 30px;
+    }
+    
+    .carous-logo{
+        text-align: center;
+    }
+    .logo-top img{
+   margin-top: 25px;
+    }
+    .services {
+        margin-left: 23px;
+    }
+    .service-feed {
+        margin-left: 23px;
+    }
+    .service-title {
+        margin-bottom: 16px;
+    }
+    .service-contr {
+        font-size: 14px;
+    }
+    .service-ins-feed ul li a img {
+        margin: 4px;
+        margin-left: 1px;
+        vertical-align: top;
+    }
+   
+    
+}
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .c_nav {
+        height: 130px;
+    }
+    .banner-h2 {
+        font-size: 48px;
+        line-height: 57px;
+        margin-bottom: 16px;
+        margin-top: 9px;
+    }
+    .about-img-2 {
+        width: 100%;
+        height: 325px;
+        margin-top: 24px;
+    }
+    .a_text {
+        padding-left: 50px;
+        margin-top: 147px;
+    }
+    .about-h2 {
+        font-size: 20px;
+        margin-top: 6px;
+        text-align: center;
+    }
+    .abo-h2 {
+     font-size: 23px;
+    line-height: 35px;
+    margin-top: 4px;
+    margin-bottom: 3px;
+    }
+    .img-recnt {
+        margin-top: 50px;
+    }
+    .img-recnt img {
+        width: 360px;
+        height: 375px;
+    }
+    .re-work-p {
+        text-align: justify;
+    }
+    .recnt-p {
+        font-size: 18px;
+    }
+    .recnt-h2 {
+        font-size: 19px;
+        margin-bottom: 8px;
+        margin-top: 10px;
+    }
+    .recnt-text {
+        text-align: center;
+    }
+    .single-item {
+        margin-top: 45px;
+    }
+    .fun-pr {
+        margin-top: 18px;
+        font-size: 16px;
+    }
+    .fun-p {
+        font-size: 33px;
+        margin-left: 29px;
+    }
+    .funcat-single {
+        margin: 0px;
+    }
+    .dis-iline {
+        display: contents;
+    }
+    .funscat {
+        padding: 57px 0;
+        margin-top: 54px;
+    }
+    .singleitem-fun {
+        margin-bottom: -11px;
+    }
+    .fun-top {
+        margin-top: 30px;
+        font-size: 33px;
+       
+    }
+    .f-single-top {
+        margin-top: 30px;
+    }
+    .singleitem-fun img {
+        width: 50px;
+        margin-left: 21px;
+        height: 45px;
+    }
+    .f-text {
+            margin-top: 15px;
+            margin-bottom: 42px;
+    }
+    .test-image {
+        margin-bottom: 60px;
+        text-align: center;
+    }
+    .single-team {
+        padding: 62px 74px 46px 72px;
+        margin: 0px;
+        margin-left: 26px;
+        margin-bottom: 30px;
+    }
+    .team-img {
+        margin-bottom: 32px;
+    }
+    .team-h2 {
+        display: grid;
+    }
+    .team-p {
+        margin: 0px;
+    }
+   
+    .team {
+        margin-bottom: 70px;
+    }
+    .arrow-line {
+        margin-left: -8px;
+    }
+    .blog-list {
+        text-align: center;
+    }
+    .single-blog {
+        margin-bottom: 30px;
+    }
+    .conact-h2 {
+        font-size: 21px;
+    }
+    .contact-phone {
+        margin-top: 22px;
+    }
+    .contract {
+        margin-bottom: 80px;
+    }
+    .carous-logo{
+        text-align: center;
+    }
+    .services {
+        margin-left: 100px;
+    }
+    .service-feed {
+        margin-left: 100px;
+        margin-top: 20px;
+    }
+    .service-title {
+        margin-bottom: 16px;
+    }
+    .service-contr {
+        font-size: 14px;
+    }
+    .dropdown-menu[data-bs-popper] {
+        top: 14%;
+        left: 129px;
+        right: 516px;
+        margin-top: var(--bs-dropdown-spacer);
+    }
+    .navbar-nav .dropdown-menu {
+        position: fixed;
+    }
+  
+ }
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    .about-h2 {
+        font-size: 31px;
+
+    }
+    .about-image {
+        height: 535px;
+    }
+    .f-text {
+        font-size: 40px;
+        margin-top: 23px;
+
+    }
+    .recnt-h2 {
+        font-size: 29px;
+        margin-bottom: 19px;
+        margin-top: 13px;
+    }
+    .img-recnt img {
+        width: 455px;
+    }
+    .recnt-text {
+        margin-top: 18px;
+        padding: 0px;
+    
+    }
+    .funscat {
+        margin-top: 100px;
+    }
+    .fun-pr {
+        font-size: 22px;
+    }
+    .test-image img {
+        height: 282px;
+    }
+    .single-team {
+        padding: 23px 27px 6px 22px;
+    }
+    .team-img {
+        width: 215px;
+        margin-bottom: 21px;
+    }
+    .conact-h2{
+        font-size: 27px;
+        margin-bottom: 24px;
+    }
+    .icon-1 {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+    .footer-logo {
+        margin-bottom: 6px;
+        color: #ffffff;
+    }
+   
+    
+ }
+ /*Extra large devices (large desktops, 1200px and up)*/
+ @media (min-width: 1200px) and (max-width: 1399.98px) { 
+    .about-h2{
+        font-size: 35px;
+    }
+    .recnt-text{
+        padding: 30px;
+    }
+    .fun-pr{
+        font-size: 24px;
+        line-height: 35px;
+        /* text-align: center; */
+        margin-left: 30px;
+        text-transform: uppercase;
+    }
+    .funscat{
+      margin-top: 50px;
+    }
+  }
+ /*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1400px) { 
+   
+}
